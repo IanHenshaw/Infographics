@@ -3,7 +3,7 @@ $( document ).ready(function() {
 	// loadJSONFile('data/portaldata.json');
 
 	// Convert a csv file (tabular data) into a json hierarchical structure
-	d3.csv("data/toc_2011_2015.csv", function(csv_data){
+	d3.csv("data/toc_2011_2015a.csv", function(csv_data){
 		
 		// Nest function: Converts tabular data into a hierarchy
 		// Add, remove or change the key values to change the hierarchy 
