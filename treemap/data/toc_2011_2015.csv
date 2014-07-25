@@ -1,0 +1,621 @@
+fiscal_year,rev_exp,category,subcategory,amount
+2011,REVENUES,Ad Valorem Taxes,Current Year Ad Valorem Taxes,66952303
+2011,REVENUES,Ad Valorem Taxes,Prior Year Ad Valorem Taxes,251720
+2011,REVENUES,Ad Valorem Taxes,Penalties and Interest,145545
+2011,REVENUES,Other Taxes & Licenses,ABC Revenue,475158
+2011,REVENUES,Other Taxes & Licenses,1 Cent Sales Tax-Article 39,10915129
+2011,REVENUES,Other Taxes & Licenses,1/2 Cent Sales Tax-Articles 40 & 42,9662557
+2011,REVENUES,Other Taxes & Licenses,Article 44 Hold Harmless,3119263
+2011,REVENUES,Other Taxes & Licenses,Privilege Licenses,1596040
+2011,REVENUES,Other Taxes & Licenses,Occupancy Tax,724825
+2011,REVENUES,Other Taxes & Licenses,Licenses,6985
+2011,REVENUES,Other Taxes & Licenses,Rental Vehicle Tax,80020
+2011,REVENUES,Intergovernmental,Utility Franchise Taxes,4532428
+2011,REVENUES,Intergovernmental,Wine and Beer Tax,649129
+2011,REVENUES,Intergovernmental,Telecommunications Sales Tax,1718176
+2011,REVENUES,Intergovernmental,Gov's Hwy Program Grant,---
+2011,REVENUES,Intergovernmental,High School Resource Officer Reimb.,151352
+2011,REVENUES,Intergovernmental,Other Restricted/Grants,399099
+2011,REVENUES,Permits and Fees,Building Permits,2096294
+2011,REVENUES,Permits and Fees,Pavement/Curb Cuts,10488
+2011,REVENUES,Permits and Fees,Rezoning/Var. Request Fees,27250
+2011,REVENUES,Permits and Fees,Site/Final Plan Review Fees,67799
+2011,REVENUES,Permits and Fees,Inspection Fees,286895
+2011,REVENUES,Permits and Fees,Sign Permits,18845
+2011,REVENUES,Permits and Fees,Fire Permits,39941
+2011,REVENUES,Permits and Fees,Watershed Maint. Fees,158599
+2011,REVENUES,Permits and Fees,Traffic Impact Analysis Reimb.,130412
+2011,REVENUES,Permits and Fees,Cell Tower Study Fees,4000
+2011,REVENUES,Permits and Fees,Grading Permits,78710
+2011,REVENUES,Sales and Service,Solid Waste and Recycling,6684733
+2011,REVENUES,Sales and Service,Used Appliance Disposal,26096
+2011,REVENUES,Sales and Service,Recreation Program Fees,930474
+2011,REVENUES,Sales and Service,Recreation Retail Sales,35566
+2011,REVENUES,Sales and Service,Dog Park,35218
+2011,REVENUES,Sales and Service,Skate Park,156075
+2011,REVENUES,Sales and Service,Ticket Sales,34226
+2011,REVENUES,Sales and Service,Athletic Fees,813879
+2011,REVENUES,Sales and Service,USA Baseball,440976
+2011,REVENUES,Sales and Service,Tennis,1176769
+2011,REVENUES,Sales and Service,Arts & Crafts,190422
+2011,REVENUES,Sales and Service,Wake Med Soccer Park,543986
+2011,REVENUES,Sales and Service,Cary Arts Center,103508
+2011,REVENUES,Sales and Service,Cary Theater,---
+2011,REVENUES,Sales and Service,Downtown Special Events,---
+2011,REVENUES,Sales and Service,Festivals,59669
+2011,REVENUES,Sales and Service,Teen Council,---
+2011,REVENUES,Sales and Service,Recreational Facility Rentals,269955
+2011,REVENUES,Sales and Service,Cultural Arts Rentals,32025
+2011,REVENUES,Sales and Service,Rents-Fire,106560
+2011,REVENUES,Sales and Service,Hazardous Waste Reimb.,-22126
+2011,REVENUES,Investment Earnings,Unrealized Gains/Losses,-232239
+2011,REVENUES,Investment Earnings,Net Investment Earnings,756821
+2011,REVENUES,Miscellaneous,Miscellaneous Revenues,624200
+2011,REVENUES,Miscellaneous,Landfill Excise Tax,110446
+2011,REVENUES,Miscellaneous,Video Programming Sales Tax,1059355
+2011,REVENUES,Miscellaneous,PEG Channel Distribution,21589
+2011,REVENUES,Miscellaneous,Court Costs,27987
+2011,REVENUES,Miscellaneous,Donations / Contributions,68466
+2011,REVENUES,Miscellaneous,Recycled Goods,411284
+2011,REVENUES,Miscellaneous,Disposable Rebate,304658
+2011,REVENUES,Miscellaneous,Police Reports/Fines,5
+2011,REVENUES,Miscellaneous,Red Light Ticket,13078
+2011,REVENUES,Miscellaneous,Cellular Tower Lease Proceeds,817456
+2011,REVENUES,Miscellaneous,Morrisville Reimbursement,5158
+2011,REVENUES,Miscellaneous,NCDOT Traffic Signal Reimbursement,776250
+2011,REVENUES,Miscellaneous,NCDOT / Amtrak Depot Lease,---
+2011,EXPENDITURES,General Government,Legislative-Town Council,672830
+2011,EXPENDITURES,General Government,Legislative-Boards & Comm.,141259
+2011,EXPENDITURES,General Government,Legislative-Town Clerk,322705
+2011,EXPENDITURES,General Government,Legislative-Legal,723135
+2011,EXPENDITURES,General Government,Town Manager's Office,696636
+2011,EXPENDITURES,General Government,Sustainability Office,95133
+2011,EXPENDITURES,General Government,Budget Office,558016
+2011,EXPENDITURES,General Government,Public Information Office,492562
+2011,EXPENDITURES,General Government,Finance-Accounting,2158073
+2011,EXPENDITURES,General Government,Finance-Purchasing,870270
+2011,EXPENDITURES,General Government,Self Insurance (Small Claims),410406
+2011,EXPENDITURES,General Government,Technology Services Capital Leases,958419
+2011,EXPENDITURES,General Government,Capital Lease Proceeds (contra exp),-958419
+2011,EXPENDITURES,General Government,Technology Services,5698901
+2011,EXPENDITURES,General Government,Less Reimb. from Soccer Park,-7218
+2011,EXPENDITURES,General Government,Human Resources,1490254
+2011,EXPENDITURES,General Government,Self Insurance (Workman's Comp),1657752
+2011,EXPENDITURES,Development,Planning,2197266
+2011,EXPENDITURES,Development,Affordable/Empl Housing Fund,379215
+2011,EXPENDITURES,Development,Development Support,---
+2011,EXPENDITURES,Development,Inspections & Permits,3776225
+2011,EXPENDITURES,Infrastructure,Transportation and Facilities,---
+2011,EXPENDITURES,Infrastructure,Water Resources - Infratructure,---
+2011,EXPENDITURES,Infrastructure,Engineering,5843003
+2011,EXPENDITURES,Infrastructure,WWRWMF Costs,-91540
+2011,EXPENDITURES,Infrastructure,Reimb. from Utility Fund,-2004561
+2011,EXPENDITURES,Public Safety,Police,19353190
+2011,EXPENDITURES,Public Safety,Less Reimb. from Downtown Ops,---
+2011,EXPENDITURES,Public Safety,Police Separation Fund,236975
+2011,EXPENDITURES,Public Safety,Fire,17551975
+2011,EXPENDITURES,PRCR,Administration,1494501
+2011,EXPENDITURES,PRCR,Recreation Programs,2770437
+2011,EXPENDITURES,PRCR,Cultural Arts,1593664
+2011,EXPENDITURES,PRCR,Festival,107338
+2011,EXPENDITURES,PRCR,Teen Council,---
+2011,EXPENDITURES,PRCR,Amphitheatre,576278
+2011,EXPENDITURES,PRCR,Cary Arts Center,32872
+2011,EXPENDITURES,PRCR,Cary Theater,---
+2011,EXPENDITURES,PRCR,Downtown Special Events,---
+2011,EXPENDITURES,PRCR,Tennis Center,1516223
+2011,EXPENDITURES,PRCR,Soccer Park,1234778
+2011,EXPENDITURES,PRCR,Skate Park,220811
+2011,EXPENDITURES,PRCR,USA Baseball,871135
+2011,EXPENDITURES,PRCR,Athletics,1441536
+2011,EXPENDITURES,Public Works and Utilities,Administration,1888698
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-1237197
+2011,EXPENDITURES,Public Works and Utilities,Facilities Management,14098640
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from Amphitheatre,-293571
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from Downtown Ops,---
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from Tennis,-257113
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from Skate Park,-9143
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from Soccer Park,-877925
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from USA Baseball,-578105
+2011,EXPENDITURES,Public Works and Utilities,Operations,12033294
+2011,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-7818319
+2011,EXPENDITURES,Public Works and Utilities,Solid Waste Management,5695633
+2011,EXPENDITURES,Public Works and Utilities,Recycling,1186760
+2011,EXPENDITURES,Public Works and Utilities,Yard Waste,---
+2012,REVENUES,Ad Valorem Taxes,Current Year Ad Valorem Taxes,69210895
+2012,REVENUES,Ad Valorem Taxes,Prior Year Ad Valorem Taxes,947603
+2012,REVENUES,Ad Valorem Taxes,Penalties and Interest,153580
+2012,REVENUES,Other Taxes & Licenses,ABC Revenue,521915
+2012,REVENUES,Other Taxes & Licenses,1 Cent Sales Tax-Article 39,10410809
+2012,REVENUES,Other Taxes & Licenses,1/2 Cent Sales Tax-Articles 40 & 42,9272949
+2012,REVENUES,Other Taxes & Licenses,Article 44 Hold Harmless,3051347
+2012,REVENUES,Other Taxes & Licenses,Privilege Licenses,1623016
+2012,REVENUES,Other Taxes & Licenses,Occupancy Tax,786849
+2012,REVENUES,Other Taxes & Licenses,Licenses,5765
+2012,REVENUES,Other Taxes & Licenses,Rental Vehicle Tax,80841
+2012,REVENUES,Intergovernmental,Utility Franchise Taxes,4169777
+2012,REVENUES,Intergovernmental,Wine and Beer Tax,596030
+2012,REVENUES,Intergovernmental,Telecommunications Sales Tax,1685119
+2012,REVENUES,Intergovernmental,Gov's Hwy Program Grant,161695
+2012,REVENUES,Intergovernmental,High School Resource Officer Reimb.,151352
+2012,REVENUES,Intergovernmental,Other Restricted/Grants,640336
+2012,REVENUES,Permits and Fees,Building Permits,2281809
+2012,REVENUES,Permits and Fees,Pavement/Curb Cuts,12330
+2012,REVENUES,Permits and Fees,Rezoning/Var. Request Fees,19950
+2012,REVENUES,Permits and Fees,Site/Final Plan Review Fees,103380
+2012,REVENUES,Permits and Fees,Inspection Fees,416979
+2012,REVENUES,Permits and Fees,Sign Permits,21400
+2012,REVENUES,Permits and Fees,Fire Permits,43999
+2012,REVENUES,Permits and Fees,Watershed Maint. Fees,125323
+2012,REVENUES,Permits and Fees,Traffic Impact Analysis Reimb.,247566
+2012,REVENUES,Permits and Fees,Cell Tower Study Fees,---
+2012,REVENUES,Permits and Fees,Grading Permits,115490
+2012,REVENUES,Sales and Service,Solid Waste and Recycling,7270060
+2012,REVENUES,Sales and Service,Used Appliance Disposal,24963
+2012,REVENUES,Sales and Service,Recreation Program Fees,997868
+2012,REVENUES,Sales and Service,Recreation Retail Sales,33692
+2012,REVENUES,Sales and Service,Dog Park,35613
+2012,REVENUES,Sales and Service,Skate Park,158761
+2012,REVENUES,Sales and Service,Ticket Sales,115
+2012,REVENUES,Sales and Service,Athletic Fees,880274
+2012,REVENUES,Sales and Service,USA Baseball,444100
+2012,REVENUES,Sales and Service,Tennis,1381023
+2012,REVENUES,Sales and Service,Arts & Crafts,67039
+2012,REVENUES,Sales and Service,Wake Med Soccer Park,518638
+2012,REVENUES,Sales and Service,Cary Arts Center,505969
+2012,REVENUES,Sales and Service,Cary Theater,---
+2012,REVENUES,Sales and Service,Downtown Special Events,---
+2012,REVENUES,Sales and Service,Festivals,104848
+2012,REVENUES,Sales and Service,Teen Council,---
+2012,REVENUES,Sales and Service,Recreational Facility Rentals,293495
+2012,REVENUES,Sales and Service,Cultural Arts Rentals,39326
+2012,REVENUES,Sales and Service,Rents-Fire,120736
+2012,REVENUES,Sales and Service,Hazardous Waste Reimb.,927
+2012,REVENUES,Investment Earnings,Unrealized Gains/Losses,"(231,399)"
+2012,REVENUES,Investment Earnings,Net Investment Earnings,469108
+2012,REVENUES,Miscellaneous,Miscellaneous Revenues,589598
+2012,REVENUES,Miscellaneous,Landfill Excise Tax,92996
+2012,REVENUES,Miscellaneous,Video Programming Sales Tax,904640
+2012,REVENUES,Miscellaneous,PEG Channel Distribution,32721
+2012,REVENUES,Miscellaneous,Court Costs,27374
+2012,REVENUES,Miscellaneous,Donations / Contributions,63485
+2012,REVENUES,Miscellaneous,Recycled Goods,347893
+2012,REVENUES,Miscellaneous,Disposable Rebate,478617
+2012,REVENUES,Miscellaneous,Police Reports/Fines,---
+2012,REVENUES,Miscellaneous,Red Light Ticket,14875
+2012,REVENUES,Miscellaneous,Cellular Tower Lease Proceeds,757441
+2012,REVENUES,Miscellaneous,Morrisville Reimbursement,2808
+2012,REVENUES,Miscellaneous,NCDOT Traffic Signal Reimbursement,1076186
+2012,REVENUES,Miscellaneous,NCDOT / Amtrak Depot Lease,61308
+2012,EXPENDITURES,General Government,Legislative-Town Council,671551
+2012,EXPENDITURES,General Government,Legislative-Boards & Comm.,145465
+2012,EXPENDITURES,General Government,Legislative-Town Clerk,417847
+2012,EXPENDITURES,General Government,Legislative-Legal,1428789
+2012,EXPENDITURES,General Government,Town Manager's Office,790167
+2012,EXPENDITURES,General Government,Sustainability Office,172007
+2012,EXPENDITURES,General Government,Budget Office,594944
+2012,EXPENDITURES,General Government,Public Information Office,634641
+2012,EXPENDITURES,General Government,Finance-Accounting,2180264
+2012,EXPENDITURES,General Government,Finance-Purchasing,923526
+2012,EXPENDITURES,General Government,Self Insurance (Small Claims),276499
+2012,EXPENDITURES,General Government,Technology Services Capital Leases,1261901
+2012,EXPENDITURES,General Government,Capital Lease Proceeds (contra exp),-1261901
+2012,EXPENDITURES,General Government,Technology Services,5520953
+2012,EXPENDITURES,General Government,Less Reimb. from Soccer Park,-7218
+2012,EXPENDITURES,General Government,Human Resources,1493516
+2012,EXPENDITURES,General Government,Self Insurance (Workman's Comp),1586970
+2012,EXPENDITURES,Development,Planning,2431534
+2012,EXPENDITURES,Development,Affordable/Empl Housing Fund,223824
+2012,EXPENDITURES,Development,Development Support,---
+2012,EXPENDITURES,Development,Inspections & Permits,3871712
+2012,EXPENDITURES,Infrastructure,Transportation and Facilities,---
+2012,EXPENDITURES,Infrastructure,Water Resources - Infratructure,---
+2012,EXPENDITURES,Infrastructure,Engineering,6384437
+2012,EXPENDITURES,Infrastructure,WWRWMF Costs,-93764
+2012,EXPENDITURES,Infrastructure,Reimb. from Utility Fund,-2540910
+2012,EXPENDITURES,Public Safety,Police,21659535
+2012,EXPENDITURES,Public Safety,Less Reimb. from Downtown Ops,---
+2012,EXPENDITURES,Public Safety,Police Separation Fund,282466
+2012,EXPENDITURES,Public Safety,Fire,17872391
+2012,EXPENDITURES,PRCR,Administration,1681485
+2012,EXPENDITURES,PRCR,Recreation Programs,2894006
+2012,EXPENDITURES,PRCR,Cultural Arts,982319
+2012,EXPENDITURES,PRCR,Festival,61722
+2012,EXPENDITURES,PRCR,Teen Council,---
+2012,EXPENDITURES,PRCR,Amphitheatre,251060
+2012,EXPENDITURES,PRCR,Cary Arts Center,1354772
+2012,EXPENDITURES,PRCR,Cary Theater,---
+2012,EXPENDITURES,PRCR,Downtown Special Events,---
+2012,EXPENDITURES,PRCR,Tennis Center,1643885
+2012,EXPENDITURES,PRCR,Soccer Park,894612
+2012,EXPENDITURES,PRCR,Skate Park,249119
+2012,EXPENDITURES,PRCR,USA Baseball,794268
+2012,EXPENDITURES,PRCR,Athletics,1479521
+2012,EXPENDITURES,Public Works and Utilities,Administration,1944323
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-1287645
+2012,EXPENDITURES,Public Works and Utilities,Facilities Management,14556443
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,---
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from Amphitheatre,-265665
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from Downtown Ops,-131540
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from Tennis,-211350
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from Skate Park,-6643
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from Soccer Park,-578858
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from USA Baseball,-498912
+2012,EXPENDITURES,Public Works and Utilities,Operations,12571573
+2012,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-7823373
+2012,EXPENDITURES,Public Works and Utilities,Solid Waste Management,5678569
+2012,EXPENDITURES,Public Works and Utilities,Recycling,1301520
+2012,EXPENDITURES,Public Works and Utilities,Yard Waste,---
+2013,REVENUES,Ad Valorem Taxes,Current Year Ad Valorem Taxes,70579959
+2013,REVENUES,Ad Valorem Taxes,Prior Year Ad Valorem Taxes,396796
+2013,REVENUES,Ad Valorem Taxes,Penalties and Interest,121219
+2013,REVENUES,Other Taxes & Licenses,ABC Revenue,640463
+2013,REVENUES,Other Taxes & Licenses,1 Cent Sales Tax-Article 39,11054437
+2013,REVENUES,Other Taxes & Licenses,1/2 Cent Sales Tax-Articles 40 & 42,9794312
+2013,REVENUES,Other Taxes & Licenses,Article 44 Hold Harmless,3160215
+2013,REVENUES,Other Taxes & Licenses,Privilege Licenses,1671965
+2013,REVENUES,Other Taxes & Licenses,Occupancy Tax,838514
+2013,REVENUES,Other Taxes & Licenses,Licenses,6495
+2013,REVENUES,Other Taxes & Licenses,Rental Vehicle Tax,80959
+2013,REVENUES,Intergovernmental,Utility Franchise Taxes,4381649
+2013,REVENUES,Intergovernmental,Wine and Beer Tax,561903
+2013,REVENUES,Intergovernmental,Telecommunications Sales Tax,1584292
+2013,REVENUES,Intergovernmental,Gov's Hwy Program Grant,103073
+2013,REVENUES,Intergovernmental,High School Resource Officer Reimb.,151352
+2013,REVENUES,Intergovernmental,Other Restricted/Grants,146728
+2013,REVENUES,Permits and Fees,Building Permits,2928378
+2013,REVENUES,Permits and Fees,Pavement/Curb Cuts,8287
+2013,REVENUES,Permits and Fees,Rezoning/Var. Request Fees,29300
+2013,REVENUES,Permits and Fees,Site/Final Plan Review Fees,157700
+2013,REVENUES,Permits and Fees,Inspection Fees,547309
+2013,REVENUES,Permits and Fees,Sign Permits,22025
+2013,REVENUES,Permits and Fees,Fire Permits,40127
+2013,REVENUES,Permits and Fees,Watershed Maint. Fees,336560
+2013,REVENUES,Permits and Fees,Traffic Impact Analysis Reimb.,336199
+2013,REVENUES,Permits and Fees,Cell Tower Study Fees,---
+2013,REVENUES,Permits and Fees,Grading Permits,197705
+2013,REVENUES,Sales and Service,Solid Waste and Recycling,7206919
+2013,REVENUES,Sales and Service,Used Appliance Disposal,25148
+2013,REVENUES,Sales and Service,Recreation Program Fees,1052009
+2013,REVENUES,Sales and Service,Recreation Retail Sales,32117
+2013,REVENUES,Sales and Service,Dog Park,32476
+2013,REVENUES,Sales and Service,Skate Park,148045
+2013,REVENUES,Sales and Service,Ticket Sales,140
+2013,REVENUES,Sales and Service,Athletic Fees,859838
+2013,REVENUES,Sales and Service,USA Baseball,485393
+2013,REVENUES,Sales and Service,Tennis,1319859
+2013,REVENUES,Sales and Service,Arts & Crafts,75045
+2013,REVENUES,Sales and Service,Wake Med Soccer Park,497493
+2013,REVENUES,Sales and Service,Cary Arts Center,585392
+2013,REVENUES,Sales and Service,Cary Theater,---
+2013,REVENUES,Sales and Service,Downtown Special Events,5457
+2013,REVENUES,Sales and Service,Festivals,141249
+2013,REVENUES,Sales and Service,Teen Council,25330
+2013,REVENUES,Sales and Service,Recreational Facility Rentals,277979
+2013,REVENUES,Sales and Service,Cultural Arts Rentals,35634
+2013,REVENUES,Sales and Service,Rents-Fire,168181
+2013,REVENUES,Sales and Service,Hazardous Waste Reimb.,6003
+2013,REVENUES,Investment Earnings,Unrealized Gains/Losses,"(245,804)"
+2013,REVENUES,Investment Earnings,Net Investment Earnings,211791
+2013,REVENUES,Miscellaneous,Miscellaneous Revenues,551804
+2013,REVENUES,Miscellaneous,Landfill Excise Tax,78395
+2013,REVENUES,Miscellaneous,Video Programming Sales Tax,930905
+2013,REVENUES,Miscellaneous,PEG Channel Distribution,31409
+2013,REVENUES,Miscellaneous,Court Costs,28657
+2013,REVENUES,Miscellaneous,Donations / Contributions,151904
+2013,REVENUES,Miscellaneous,Recycled Goods,208343
+2013,REVENUES,Miscellaneous,Disposable Rebate,388004
+2013,REVENUES,Miscellaneous,Police Reports/Fines,---
+2013,REVENUES,Miscellaneous,Red Light Ticket,1498
+2013,REVENUES,Miscellaneous,Cellular Tower Lease Proceeds,952617
+2013,REVENUES,Miscellaneous,Morrisville Reimbursement,3863
+2013,REVENUES,Miscellaneous,NCDOT Traffic Signal Reimbursement,958880
+2013,REVENUES,Miscellaneous,NCDOT / Amtrak Depot Lease,65042
+2013,EXPENDITURES,General Government,Legislative-Town Council,669775
+2013,EXPENDITURES,General Government,Legislative-Boards & Comm.,141870
+2013,EXPENDITURES,General Government,Legislative-Town Clerk,328740
+2013,EXPENDITURES,General Government,Legislative-Legal,1367904
+2013,EXPENDITURES,General Government,Town Manager's Office,789555
+2013,EXPENDITURES,General Government,Sustainability Office,120484
+2013,EXPENDITURES,General Government,Budget Office,653574
+2013,EXPENDITURES,General Government,Public Information Office,621254
+2013,EXPENDITURES,General Government,Finance-Accounting,2287541
+2013,EXPENDITURES,General Government,Finance-Purchasing,872914
+2013,EXPENDITURES,General Government,Self Insurance (Small Claims),124563
+2013,EXPENDITURES,General Government,Technology Services Capital Leases,636858
+2013,EXPENDITURES,General Government,Capital Lease Proceeds (contra exp),-636858
+2013,EXPENDITURES,General Government,Technology Services,5740562
+2013,EXPENDITURES,General Government,Less Reimb. from Soccer Park,-7218
+2013,EXPENDITURES,General Government,Human Resources,1455683
+2013,EXPENDITURES,General Government,Self Insurance (Workman's Comp),1355617
+2013,EXPENDITURES,Development,Planning,2811612
+2013,EXPENDITURES,Development,Affordable/Empl Housing Fund,274326
+2013,EXPENDITURES,Development,Development Support,---
+2013,EXPENDITURES,Development,Inspections & Permits,3825614
+2013,EXPENDITURES,Infrastructure,Transportation and Facilities,---
+2013,EXPENDITURES,Infrastructure,Water Resources - Infratructure,---
+2013,EXPENDITURES,Infrastructure,Engineering,6745183
+2013,EXPENDITURES,Infrastructure,WWRWMF Costs,-226205
+2013,EXPENDITURES,Infrastructure,Reimb. from Utility Fund,-2462826
+2013,EXPENDITURES,Public Safety,Police,21159738
+2013,EXPENDITURES,Public Safety,Less Reimb. from Downtown Ops,-8845
+2013,EXPENDITURES,Public Safety,Police Separation Fund,300000
+2013,EXPENDITURES,Public Safety,Fire,19101058
+2013,EXPENDITURES,PRCR,Administration,1549351
+2013,EXPENDITURES,PRCR,Recreation Programs,2911481
+2013,EXPENDITURES,PRCR,Cultural Arts,968778
+2013,EXPENDITURES,PRCR,Festival,125218
+2013,EXPENDITURES,PRCR,Teen Council,3777
+2013,EXPENDITURES,PRCR,Amphitheatre,588858
+2013,EXPENDITURES,PRCR,Cary Arts Center,1516532
+2013,EXPENDITURES,PRCR,Cary Theater,95
+2013,EXPENDITURES,PRCR,Downtown Special Events,99047
+2013,EXPENDITURES,PRCR,Tennis Center,1512665
+2013,EXPENDITURES,PRCR,Soccer Park,970975
+2013,EXPENDITURES,PRCR,Skate Park,268500
+2013,EXPENDITURES,PRCR,USA Baseball,766435
+2013,EXPENDITURES,PRCR,Athletics,1550123
+2013,EXPENDITURES,Public Works and Utilities,Administration,2215596
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-1471233
+2013,EXPENDITURES,Public Works and Utilities,Facilities Management,14746796
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,---
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from Amphitheatre,-344891
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from Downtown Ops,-201792
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from Tennis,-144585
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from Skate Park,-30783
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from Soccer Park,-647029
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from USA Baseball,-464604
+2013,EXPENDITURES,Public Works and Utilities,Operations,12386718
+2013,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-7627218
+2013,EXPENDITURES,Public Works and Utilities,Solid Waste Management,6009383
+2013,EXPENDITURES,Public Works and Utilities,Recycling,1407245
+2013,EXPENDITURES,Public Works and Utilities,Yard Waste,0
+2014,REVENUES,Ad Valorem Taxes,Current Year Ad Valorem Taxes,78299089
+2014,REVENUES,Ad Valorem Taxes,Prior Year Ad Valorem Taxes,150000
+2014,REVENUES,Ad Valorem Taxes,Penalties and Interest,65000
+2014,REVENUES,Other Taxes & Licenses,ABC Revenue,632787
+2014,REVENUES,Other Taxes & Licenses,1 Cent Sales Tax-Article 39,11861282
+2014,REVENUES,Other Taxes & Licenses,1/2 Cent Sales Tax-Articles 40 & 42,10445855
+2014,REVENUES,Other Taxes & Licenses,Article 44 Hold Harmless,3281286
+2014,REVENUES,Other Taxes & Licenses,Privilege Licenses,1646011
+2014,REVENUES,Other Taxes & Licenses,Occupancy Tax,875027
+2014,REVENUES,Other Taxes & Licenses,Licenses,6851
+2014,REVENUES,Other Taxes & Licenses,Rental Vehicle Tax,84990
+2014,REVENUES,Intergovernmental,Utility Franchise Taxes,4547763
+2014,REVENUES,Intergovernmental,Wine and Beer Tax,584379
+2014,REVENUES,Intergovernmental,Telecommunications Sales Tax,1487186
+2014,REVENUES,Intergovernmental,Gov's Hwy Program Grant,87705
+2014,REVENUES,Intergovernmental,High School Resource Officer Reimb.,151352
+2014,REVENUES,Intergovernmental,Other Restricted/Grants,---
+2014,REVENUES,Permits and Fees,Building Permits,3200000
+2014,REVENUES,Permits and Fees,Pavement/Curb Cuts,15928
+2014,REVENUES,Permits and Fees,Rezoning/Var. Request Fees,44000
+2014,REVENUES,Permits and Fees,Site/Final Plan Review Fees,151738
+2014,REVENUES,Permits and Fees,Inspection Fees,609465
+2014,REVENUES,Permits and Fees,Sign Permits,28000
+2014,REVENUES,Permits and Fees,Fire Permits,53000
+2014,REVENUES,Permits and Fees,Watershed Maint. Fees,420000
+2014,REVENUES,Permits and Fees,Traffic Impact Analysis Reimb.,234000
+2014,REVENUES,Permits and Fees,Cell Tower Study Fees,---
+2014,REVENUES,Permits and Fees,Grading Permits,260000
+2014,REVENUES,Sales and Service,Solid Waste and Recycling,7930735
+2014,REVENUES,Sales and Service,Used Appliance Disposal,37713
+2014,REVENUES,Sales and Service,Recreation Program Fees,1080000
+2014,REVENUES,Sales and Service,Recreation Retail Sales,23000
+2014,REVENUES,Sales and Service,Dog Park,28000
+2014,REVENUES,Sales and Service,Skate Park,125000
+2014,REVENUES,Sales and Service,Ticket Sales,---
+2014,REVENUES,Sales and Service,Athletic Fees,875000
+2014,REVENUES,Sales and Service,USA Baseball,483800
+2014,REVENUES,Sales and Service,Tennis,1400672
+2014,REVENUES,Sales and Service,Arts & Crafts,73500
+2014,REVENUES,Sales and Service,Wake Med Soccer Park,618385
+2014,REVENUES,Sales and Service,Cary Arts Center,686688
+2014,REVENUES,Sales and Service,Cary Theater,42000
+2014,REVENUES,Sales and Service,Downtown Special Events,6474
+2014,REVENUES,Sales and Service,Festivals,149505
+2014,REVENUES,Sales and Service,Teen Council,49181
+2014,REVENUES,Sales and Service,Recreational Facility Rentals,302000
+2014,REVENUES,Sales and Service,Cultural Arts Rentals,41500
+2014,REVENUES,Sales and Service,Rents-Fire,156116
+2014,REVENUES,Sales and Service,Hazardous Waste Reimb.,20000
+2014,REVENUES,Investment Earnings,Unrealized Gains/Losses,---
+2014,REVENUES,Investment Earnings,Net Investment Earnings,343588
+2014,REVENUES,Miscellaneous,Miscellaneous Revenues,450000
+2014,REVENUES,Miscellaneous,Landfill Excise Tax,74475
+2014,REVENUES,Miscellaneous,Video Programming Sales Tax,897899
+2014,REVENUES,Miscellaneous,PEG Channel Distribution,31971
+2014,REVENUES,Miscellaneous,Court Costs,24944
+2014,REVENUES,Miscellaneous,Donations / Contributions,159985
+2014,REVENUES,Miscellaneous,Recycled Goods,200000
+2014,REVENUES,Miscellaneous,Disposable Rebate,400331
+2014,REVENUES,Miscellaneous,Police Reports/Fines,---
+2014,REVENUES,Miscellaneous,Red Light Ticket,---
+2014,REVENUES,Miscellaneous,Cellular Tower Lease Proceeds,758032
+2014,REVENUES,Miscellaneous,Morrisville Reimbursement,---
+2014,REVENUES,Miscellaneous,NCDOT Traffic Signal Reimbursement,720998
+2014,REVENUES,Miscellaneous,NCDOT / Amtrak Depot Lease,66993
+2014,EXPENDITURES,General Government,Legislative-Town Council,751906
+2014,EXPENDITURES,General Government,Legislative-Boards & Comm.,147039
+2014,EXPENDITURES,General Government,Legislative-Town Clerk,701341
+2014,EXPENDITURES,General Government,Legislative-Legal,1932322
+2014,EXPENDITURES,General Government,Town Manager's Office,1307651
+2014,EXPENDITURES,General Government,Sustainability Office,65139
+2014,EXPENDITURES,General Government,Budget Office,637473
+2014,EXPENDITURES,General Government,Public Information Office,770611
+2014,EXPENDITURES,General Government,Finance-Accounting,2705825
+2014,EXPENDITURES,General Government,Finance-Purchasing,856866
+2014,EXPENDITURES,General Government,Self Insurance (Small Claims),1064788
+2014,EXPENDITURES,General Government,Technology Services Capital Leases,1300000
+2014,EXPENDITURES,General Government,Capital Lease Proceeds (contra exp),-1300000
+2014,EXPENDITURES,General Government,Technology Services,7801343
+2014,EXPENDITURES,General Government,Less Reimb. from Soccer Park,-7218
+2014,EXPENDITURES,General Government,Human Resources,2016410
+2014,EXPENDITURES,General Government,Self Insurance (Workman's Comp),1750000
+2014,EXPENDITURES,Development,Planning,3240123
+2014,EXPENDITURES,Development,Affordable/Empl Housing Fund,177330
+2014,EXPENDITURES,Development,Development Support,411584
+2014,EXPENDITURES,Development,Inspections & Permits,3977794
+2014,EXPENDITURES,Infrastructure,Transportation and Facilities,2791437
+2014,EXPENDITURES,Infrastructure,Water Resources - Infratructure,1321003
+2014,EXPENDITURES,Infrastructure,Engineering,3157815
+2014,EXPENDITURES,Infrastructure,WWRWMF Costs,-117500
+2014,EXPENDITURES,Infrastructure,Reimb. from Utility Fund,-1172753
+2014,EXPENDITURES,Public Safety,Police,22317961
+2014,EXPENDITURES,Public Safety,Less Reimb. from Downtown Ops,-26155
+2014,EXPENDITURES,Public Safety,Police Separation Fund,318291
+2014,EXPENDITURES,Public Safety,Fire,20220255
+2014,EXPENDITURES,PRCR,Administration,1618110
+2014,EXPENDITURES,PRCR,Recreation Programs,3363343
+2014,EXPENDITURES,PRCR,Cultural Arts,963855
+2014,EXPENDITURES,PRCR,Festival,149505
+2014,EXPENDITURES,PRCR,Teen Council,49181
+2014,EXPENDITURES,PRCR,Amphitheatre,881740
+2014,EXPENDITURES,PRCR,Cary Arts Center,1797003
+2014,EXPENDITURES,PRCR,Cary Theater,382658
+2014,EXPENDITURES,PRCR,Downtown Special Events,375118
+2014,EXPENDITURES,PRCR,Tennis Center,1800203
+2014,EXPENDITURES,PRCR,Soccer Park,1509579
+2014,EXPENDITURES,PRCR,Skate Park,310949
+2014,EXPENDITURES,PRCR,USA Baseball,1042020
+2014,EXPENDITURES,PRCR,Athletics,1622390
+2014,EXPENDITURES,Public Works and Utilities,Administration,1840792
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-1100000
+2014,EXPENDITURES,Public Works and Utilities,Facilities Management,17199367
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,---
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from Amphitheatre,-230000
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from Downtown Ops,-432076
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from Tennis,-205270
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from Skate Park,-11675
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from Soccer Park,-1005310
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from USA Baseball,-690840
+2014,EXPENDITURES,Public Works and Utilities,Operations,14409904
+2014,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-9166193
+2014,EXPENDITURES,Public Works and Utilities,Solid Waste Management,4469031
+2014,EXPENDITURES,Public Works and Utilities,Recycling,1470567
+2014,EXPENDITURES,Public Works and Utilities,Yard Waste,2319472
+2015,REVENUES,Ad Valorem Taxes,Current Year Ad Valorem Taxes,77376802
+2015,REVENUES,Ad Valorem Taxes,Prior Year Ad Valorem Taxes,150000
+2015,REVENUES,Ad Valorem Taxes,Penalties and Interest,65000
+2015,REVENUES,Other Taxes & Licenses,ABC Revenue,648607
+2015,REVENUES,Other Taxes & Licenses,1 Cent Sales Tax-Article 39,12335733
+2015,REVENUES,Other Taxes & Licenses,1/2 Cent Sales Tax-Articles 40 & 42,10818537
+2015,REVENUES,Other Taxes & Licenses,Article 44 Hold Harmless,3352664
+2015,REVENUES,Other Taxes & Licenses,Privilege Licenses,1663315
+2015,REVENUES,Other Taxes & Licenses,Occupancy Tax,886560
+2015,REVENUES,Other Taxes & Licenses,Licenses,6920
+2015,REVENUES,Other Taxes & Licenses,Rental Vehicle Tax,85000
+2015,REVENUES,Intergovernmental,Utility Franchise Taxes,4593240
+2015,REVENUES,Intergovernmental,Wine and Beer Tax,596067
+2015,REVENUES,Intergovernmental,Telecommunications Sales Tax,1417288
+2015,REVENUES,Intergovernmental,Gov's Hwy Program Grant,60631
+2015,REVENUES,Intergovernmental,High School Resource Officer Reimb.,151352
+2015,REVENUES,Intergovernmental,Other Restricted/Grants,---
+2015,REVENUES,Permits and Fees,Building Permits,3400000
+2015,REVENUES,Permits and Fees,Pavement/Curb Cuts,15928
+2015,REVENUES,Permits and Fees,Rezoning/Var. Request Fees,44000
+2015,REVENUES,Permits and Fees,Site/Final Plan Review Fees,151738
+2015,REVENUES,Permits and Fees,Inspection Fees,609465
+2015,REVENUES,Permits and Fees,Sign Permits,28000
+2015,REVENUES,Permits and Fees,Fire Permits,50000
+2015,REVENUES,Permits and Fees,Watershed Maint. Fees,420000
+2015,REVENUES,Permits and Fees,Traffic Impact Analysis Reimb.,234000
+2015,REVENUES,Permits and Fees,Cell Tower Study Fees,---
+2015,REVENUES,Permits and Fees,Grading Permits,260000
+2015,REVENUES,Sales and Service,Solid Waste and Recycling,8049696
+2015,REVENUES,Sales and Service,Used Appliance Disposal,38090
+2015,REVENUES,Sales and Service,Recreation Program Fees,1100000
+2015,REVENUES,Sales and Service,Recreation Retail Sales,24500
+2015,REVENUES,Sales and Service,Dog Park,27000
+2015,REVENUES,Sales and Service,Skate Park,154500
+2015,REVENUES,Sales and Service,Ticket Sales,---
+2015,REVENUES,Sales and Service,Athletic Fees,900000
+2015,REVENUES,Sales and Service,USA Baseball,486000
+2015,REVENUES,Sales and Service,Tennis,1411000
+2015,REVENUES,Sales and Service,Arts & Crafts,75000
+2015,REVENUES,Sales and Service,Wake Med Soccer Park,617428
+2015,REVENUES,Sales and Service,Cary Arts Center,670540
+2015,REVENUES,Sales and Service,Cary Theater,177080
+2015,REVENUES,Sales and Service,Downtown Special Events,6474
+2015,REVENUES,Sales and Service,Festivals,153105
+2015,REVENUES,Sales and Service,Teen Council,46309
+2015,REVENUES,Sales and Service,Recreational Facility Rentals,305000
+2015,REVENUES,Sales and Service,Cultural Arts Rentals,41500
+2015,REVENUES,Sales and Service,Rents-Fire,160799
+2015,REVENUES,Sales and Service,Hazardous Waste Reimb.,20000
+2015,REVENUES,Investment Earnings,Unrealized Gains/Losses,---
+2015,REVENUES,Investment Earnings,Net Investment Earnings,305562
+2015,REVENUES,Miscellaneous,Miscellaneous Revenues,450000
+2015,REVENUES,Miscellaneous,Landfill Excise Tax,70751
+2015,REVENUES,Miscellaneous,Video Programming Sales Tax,884431
+2015,REVENUES,Miscellaneous,PEG Channel Distribution,31971
+2015,REVENUES,Miscellaneous,Court Costs,25692
+2015,REVENUES,Miscellaneous,Donations / Contributions,148750
+2015,REVENUES,Miscellaneous,Recycled Goods,200000
+2015,REVENUES,Miscellaneous,Disposable Rebate,385009
+2015,REVENUES,Miscellaneous,Police Reports/Fines,---
+2015,REVENUES,Miscellaneous,Red Light Ticket,---
+2015,REVENUES,Miscellaneous,Cellular Tower Lease Proceeds,806944
+2015,REVENUES,Miscellaneous,Morrisville Reimbursement,---
+2015,REVENUES,Miscellaneous,NCDOT Traffic Signal Reimbursement,720998
+2015,REVENUES,Miscellaneous,NCDOT / Amtrak Depot Lease,69003
+2015,EXPENDITURES,General Government,Legislative-Town Council,571566
+2015,EXPENDITURES,General Government,Legislative-Boards & Comm.,151039
+2015,EXPENDITURES,General Government,Legislative-Town Clerk,387727
+2015,EXPENDITURES,General Government,Legislative-Legal,1603788
+2015,EXPENDITURES,General Government,Town Manager's Office,1809689
+2015,EXPENDITURES,General Government,Sustainability Office,---
+2015,EXPENDITURES,General Government,Budget Office,603644
+2015,EXPENDITURES,General Government,Public Information Office,790549
+2015,EXPENDITURES,General Government,Finance-Accounting,2809976
+2015,EXPENDITURES,General Government,Finance-Purchasing,925475
+2015,EXPENDITURES,General Government,Self Insurance (Small Claims),500000
+2015,EXPENDITURES,General Government,Technology Services Capital Leases,1300000
+2015,EXPENDITURES,General Government,Capital Lease Proceeds (contra exp),-1300000
+2015,EXPENDITURES,General Government,Technology Services,7698302
+2015,EXPENDITURES,General Government,Less Reimb. from Soccer Park,-7218
+2015,EXPENDITURES,General Government,Human Resources,2100208
+2015,EXPENDITURES,General Government,Self Insurance (Workman's Comp),1500000
+2015,EXPENDITURES,Development,Planning,2508961
+2015,EXPENDITURES,Development,Affordable/Empl Housing Fund,180793
+2015,EXPENDITURES,Development,Development Support,899755
+2015,EXPENDITURES,Development,Inspections & Permits,3746789
+2015,EXPENDITURES,Infrastructure,Transportation and Facilities,4873980
+2015,EXPENDITURES,Infrastructure,Water Resources - Infratructure,2553609
+2015,EXPENDITURES,Infrastructure,Engineering,---
+2015,EXPENDITURES,Infrastructure,WWRWMF Costs,---
+2015,EXPENDITURES,Infrastructure,Reimb. from Utility Fund,---
+2015,EXPENDITURES,Public Safety,Police,23188431
+2015,EXPENDITURES,Public Safety,Less Reimb. from Downtown Ops,-36320
+2015,EXPENDITURES,Public Safety,Police Separation Fund,364195
+2015,EXPENDITURES,Public Safety,Fire,20359324
+2015,EXPENDITURES,PRCR,Administration,1369507
+2015,EXPENDITURES,PRCR,Recreation Programs,3325997
+2015,EXPENDITURES,PRCR,Cultural Arts,951272
+2015,EXPENDITURES,PRCR,Festival,153105
+2015,EXPENDITURES,PRCR,Teen Council,46309
+2015,EXPENDITURES,PRCR,Amphitheatre,455000
+2015,EXPENDITURES,PRCR,Cary Arts Center,1887808
+2015,EXPENDITURES,PRCR,Cary Theater,702837
+2015,EXPENDITURES,PRCR,Downtown Special Events,324239
+2015,EXPENDITURES,PRCR,Tennis Center,1753475
+2015,EXPENDITURES,PRCR,Soccer Park,1536312
+2015,EXPENDITURES,PRCR,Skate Park,269207
+2015,EXPENDITURES,PRCR,USA Baseball,946247
+2015,EXPENDITURES,PRCR,Athletics,1632342
+2015,EXPENDITURES,Public Works and Utilities,Administration,1247929
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-701274
+2015,EXPENDITURES,Public Works and Utilities,Facilities Management,16535960
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-201110
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from Amphitheatre,-230000
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from Downtown Ops,-497832
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from Tennis,-183950
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from Skate Park,-18881
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from Soccer Park,-964470
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from USA Baseball,-600240
+2015,EXPENDITURES,Public Works and Utilities,Operations,14747984
+2015,EXPENDITURES,Public Works and Utilities,Less Reimb. from Utility Fund,-10228988
+2015,EXPENDITURES,Public Works and Utilities,Solid Waste Management,4720695
+2015,EXPENDITURES,Public Works and Utilities,Recycling,1588566
+2015,EXPENDITURES,Public Works and Utilities,Yard Waste,2606454
