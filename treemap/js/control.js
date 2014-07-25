@@ -13,7 +13,7 @@ $( document ).ready(function() {
 			.key(function(d)  { return d.fiscal_year; })
 			.key(function(d)  { return d.rev_exp; })
 			.key(function(d)  { return d.category; })
-			.key(function(d)  { return d.subcategory; })
+			// .key(function(d)  { return d.subcategory; })
 			.entries(csv_data);
 
 		// Creat the root node for the treemap
