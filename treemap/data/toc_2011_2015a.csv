@@ -172,7 +172,7 @@ fiscal_year,rev_exp,category,subcategory,amount
 2012,REVENUES,Sales and Service,Cultural Arts Rentals,39326
 2012,REVENUES,Sales and Service,Rents-Fire,120736
 2012,REVENUES,Sales and Service,Hazardous Waste Reimb.,927
-2012,REVENUES,Investment Earnings,Unrealized Gains/Losses,"(231,399)"
+2012,REVENUES,Investment Earnings,Unrealized Gains/Losses,-231399
 2012,REVENUES,Investment Earnings,Net Investment Earnings,469108
 2012,REVENUES,Miscellaneous,Miscellaneous Revenues,589598
 2012,REVENUES,Miscellaneous,Landfill Excise Tax,92996
@@ -296,7 +296,7 @@ fiscal_year,rev_exp,category,subcategory,amount
 2013,REVENUES,Sales and Service,Cultural Arts Rentals,35634
 2013,REVENUES,Sales and Service,Rents-Fire,168181
 2013,REVENUES,Sales and Service,Hazardous Waste Reimb.,6003
-2013,REVENUES,Investment Earnings,Unrealized Gains/Losses,"(245,804)"
+2013,REVENUES,Investment Earnings,Unrealized Gains/Losses,-245804
 2013,REVENUES,Investment Earnings,Net Investment Earnings,211791
 2013,REVENUES,Miscellaneous,Miscellaneous Revenues,551804
 2013,REVENUES,Miscellaneous,Landfill Excise Tax,78395
